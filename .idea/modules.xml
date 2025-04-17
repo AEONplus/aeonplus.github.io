@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/aeonplus.github.io.iml" filepath="$PROJECT_DIR$/.idea/aeonplus.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../observatorycontrolsystem.github.io/.idea/observatorycontrolsystem.github.io.iml" filepath="$PROJECT_DIR$/../observatorycontrolsystem.github.io/.idea/observatorycontrolsystem.github.io.iml" />
     </modules>
   </component>
 </project>
