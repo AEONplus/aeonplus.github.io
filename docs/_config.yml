@@ -51,3 +51,28 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+favicon: /assets/images/favicon.png
+defaults:
+  -
+    scope:
+      path: "" # These defaults will apply to all pages
+      type: pages
+    values:
+      hide_footer: true
+      show_sidebar: false
+      hide_hero: true
+      menubar: menu
+  -
+    scope:
+      path: "index.md"
+      type: pages
+    values:
+      hide_hero: false
+      hero_image: /assets/images/starry_sky.jpeg
+  -
+    scope:
+      path: "api"
+      type: pages
+    values:
+      menubar: false

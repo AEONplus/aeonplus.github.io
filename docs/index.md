@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: AEON+
 subtitle: Collaboration of Astronomical Observatories
 ---
