@@ -37,11 +37,11 @@ of optical facilities at NOIRLab, LCOGT, SOAR and Gemini, AEON+ will extend the 
 follow-up facilities to include radio telescopes as well world-class optical/NIR observatories.  
 
 ## Program Elements
-Astronomers will be able to request observations from any participating facility using stand-alone 
+Software: Astronomers will be able to request observations from any participating facility using stand-alone 
 Python library.  This library is being designed such that it can be applied by any existing platform or 
 software in use by the community to manage observing programs.  
 
-Observatories in the AEON network have agreed to some or all of their time being available in  
+Expanding the range of AEON-compatible facilities: Observatories in the AEON network have agreed to some or all of their time being available in  
 flexible queue-scheduling mode.  This program supports the observatory-side development of software to 
 receive and process observing requests according to each telescopes standard operating practises.   
 The combined network will offer access to imaging and spectroscopic instruments on telescopes ranging 
@@ -49,10 +49,18 @@ from 0.4m to 10m in aperture, distributed across the world. Each facility retain
 fraction of its time that is executed in AEON mode, and telescope nightly operations need not be fully 
 robotic to participate.  
 
-Radio observatories are joining the AEON+ Collaboration for the first time.  We are working to broaden 
+Multi-wavelength facilities: Radio observatories are joining the AEON+ Collaboration for the first time.  We are working to broaden 
 the "request language" used to submit observation configurations to incorporate the different 
 telescope and instrument parameters necessary.  Once complete, observers will be able to perform multi-wavelength 
 follow-up of their targets at the click of a button.
+
+Observatories Forum: We will host annual workshops to bring together observatory operators and their 
+development teams to facilitate the sharing of tools and techniques and to enhance collaboration.
+
+Visiting Developers Program: We will enable developers, engineers and scientists from observatories and 
+the user community to meet in person for short sprint-style workshops.  This will facilitate the 
+development of tools to enable time domain astrophysics for the user community, and necessary functionality 
+at the observatories.  
 
 ## Documentation
 A technical description of AEON has been published in Street et al., 2020, SPIE: Astronomical Telescopes 
