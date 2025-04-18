@@ -1,0 +1,25 @@
+<footer class="footer">
+    <div class="container">
+        {% if site.footer_menu %}
+            <div class="columns is-multiline">
+                {% for item in site.data[site.footer_menu] %}
+                    <div class="column has-text-centered">
+                        <div>
+                            <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        <div class="columns is-small has-text-centered">
+            <div class="column has-text-centered">
+                <img src="/assets/images/NSF_Official_logo_Med_Res_600ppi.png" width="50pix">
+                <p style="display: inline-block; vertical-align: middle;">This program is sponsored by the NSF grant #2432266</p>
+            </div>
+            <div class="column has-text-centered">
+                <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+            </div>
+        </div>
+    </div>
+</footer>

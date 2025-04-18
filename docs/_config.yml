@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aeonplus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+permalink: /:categories/:title/
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
@@ -62,7 +63,6 @@ defaults:
       hide_footer: true
       show_sidebar: false
       hide_hero: true
-      menubar: menu
   -
     scope:
       path: "index.md"
@@ -70,9 +70,4 @@ defaults:
     values:
       hide_hero: false
       hero_image: /assets/images/starry_sky.jpeg
-  -
-    scope:
-      path: "api"
-      type: pages
-    values:
-      menubar: false
+      footer_menu: footer_menu

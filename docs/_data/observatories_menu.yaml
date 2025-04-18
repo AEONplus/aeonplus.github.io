@@ -1,0 +1,6 @@
+- label: Observatories
+  items:
+    - name: LCOGT
+      link: /observatories/lcogt/
+    - name: SOAR
+      link: /observatories/soar/
