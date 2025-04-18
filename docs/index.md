@@ -1,11 +1,11 @@
 ---
 layout: page
-title: AEON+
-subtitle: Rapid, flexible, programmable access to world-class telescope facilities
 show_sidebar: false
 sponsors: project_sponsors
 hide_footer: false
 ---
+
+## Rapid, flexible, programmable access to multi-wavelength telescope facilities
 
 <p>AEON+ is a collaboration between astronomical telescopes to enable more responsive, flexible modes of 
 observations that are essential for time domain astrophysics.  </p>

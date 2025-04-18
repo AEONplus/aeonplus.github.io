@@ -69,5 +69,5 @@ defaults:
       type: pages
     values:
       hide_hero: false
-      hero_image: /assets/images/starry_sky.jpeg
+      hero_image: /assets/images/starry_sky_aeon_banner.png
       footer_menu: footer_menu
