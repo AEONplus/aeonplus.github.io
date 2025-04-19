@@ -3,6 +3,7 @@ layout: page
 show_sidebar: false
 sponsors: project_sponsors
 hide_footer: false
+hide_hero: false
 ---
 
 ## Rapid, flexible, programmable access to multi-wavelength telescope facilities

@@ -65,7 +65,7 @@ defaults:
       hide_hero: true
   -
     scope:
-      path: "openocs.md"
+      path: "index.md"
       type: pages
     values:
       hide_hero: false
