@@ -1,10 +1,10 @@
 ---
 layout: page
-title: SOAR
+title: Gemini
 show_sidebar: false
 menubar: observatories_menu
 ---
 
-# The SOAR Telescope
+# The Gemini Telescope
 
 More information coming soon.
