@@ -72,6 +72,24 @@ The instrument complement for the telescope networks are as follows.
 <td>4 s</td>
 <td>13</td>
 </tr>
+
+<tr>
+<td><a href="https://lco.global/observatory/instruments/floyds/">FLOYDS</a></td>
+<td><a href="https://lco.global/observatory/telescopes/2m">2-meter</a></td>
+<td>R=400 - 700</td>
+<td>Slit widths =1.2, 1.6, 2.0, 6.0 arcseconds</td>
+<td>210s</td>
+<td>Fixed; 540-1000 nm (1st order), 320-570 nm (2nd order)</td>
+</tr>
+
+<tr>
+<td><a href="https://lco.global/observatory/instruments/nres/nres-performance/">NRES</a></td>
+<td><a href="https://lco.global/observatory/telescopes/1m/">1-meter</a></td>
+<td>R~53,000</td>
+<td>~2.9 arcsec fibre</td>
+<td>667s</td>
+<td>380-860 nm</td>
+</tr>
 </tbody>
 </table>
   
