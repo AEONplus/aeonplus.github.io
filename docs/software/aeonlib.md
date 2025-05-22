@@ -9,8 +9,7 @@ menubar: software_menu
 _A set of tools for accessing observatory APIs_
 
 #### What AEONlib is
-AEONlib will provide a stand-alone Python library designed to simplify and standardized programatic access to observational resources. 
-For the moment we are heavily focused on submitting observations, but retrieving data from facilities with appropiate API access is a possible direction for future development.
+AEONlib will provide a stand-alone Python library designed to simplify and standardized programmatic access to observational resources. For the moment we are heavily focused on submitting observations, but retrieving data from facilities with appropriate API access is a possible direction for future development.
 
 Features of AEONlib include:
  - **Unified Configuration** -- All facilitiy configurations, such as passwords, API keys, or authentication tokens, can be supplied via enviornment variables or a `.env` file.
@@ -19,7 +18,7 @@ Features of AEONlib include:
  - **Consistent Coding Conventions** -- Naming conventions and syntax will be consistent across all facilities.
  - **Shared Special Objects** -- For objects like time windows and target that are not unique to each observatory, AEONlib will provide a shared object class that can be used across multiple facilities.
  - **Robust Validation and Type Checking** -- AEONlib is type-annotated with well defined data models. This means that requests can be validated at run time, or even in the editor, rather than during submission.
- - **Up-to-date facility information** -- For properly configured Observatory APIs, updated instrument configurations can be automatically generated for AEONlib, so keeping your AEONlib version up to date helps you be confident that your observation requests remain valid through facility improvements.
+ - **Up-To-Date Facility Information** -- For properly configured Observatory APIs, updated instrument configurations can be automatically generated for AEONlib, so keeping your AEONlib version up to date helps you be confident that your observation requests remain valid through facility improvements.
 
 #### What AEONlib is not
-AEONlib is not a generic, one-size-fits-all observatory request class that will allow you to use the exact same code to submit observations to any facility. Each observatory has unique features that allow for unique and exciting science. Any generalization we could apply would inevitably either abstract out and simplify away many of those complex features, or become so complex and burdensome that it would loose any usefulness. We want all of the nuance and special capabilities of these facilities to be fully available to astronomers while simplifying and standardizing their access to them.
+AEONlib is not a generic, one-size-fits-all observatory request class that will allow you to use the exact same code to submit observations to any facility. Each observatory has unique features that allow for unique and exciting science. Any generalization we could apply would inevitably either abstract out and simplify away many of those complex features, or become so complex and burdensome that it would lose any usefulness. We want all of the nuance and special capabilities of these facilities to be fully available to astronomers while simplifying and standardizing their access to them.
