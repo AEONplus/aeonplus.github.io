@@ -9,10 +9,10 @@ menubar: observatories_menu
 
 For more information, please visit: [https://keckobservatory.org/](https://keckobservatory.org/).
 
-<!--<figure class="image">
+<figure class="image">
   <img src="/assets/images/Keck-Sean-Goebel-13.jpeg">
-    <figcaption>  Image credit: </figcaption>
-</figure>-->
+    <figcaption>The twin Keck Observatories  Image credit: Sean Goebel</figcaption>
+</figure>
 
 <p>The W. M. Keck Observatory (WMKO) consists of two 10 meter optical/infrared telescopes sitting 
 atop Maunakea on the Island of Hawaiʻi.</p>
