@@ -6,6 +6,8 @@
       link: /observatories/soar/
     - name: Gemini
       link: /observatories/gemini/
+    - name: NOIRLab
+      link: /observatories/noirlab/
     - name: CFHT
       link: /observatories/cfht/
     - name: Liverpool Telescope
