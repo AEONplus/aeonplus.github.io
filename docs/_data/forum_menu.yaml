@@ -1,0 +1,16 @@
+- label: Observatories Forum
+  items:
+    - name: Forum Home
+      link: observatories_forum
+    - name: Registration
+      link: /observatories_forum/registration/
+    - name: Venue
+      link: /observatories_forum/venue/
+    - name: Travel
+      link: /observatories_forum/travel/
+    - name: Accommodation
+      link: /observatories_forum/accommodation/
+    - name: Food & Drink
+      link: /observatories_forum/food_and_drink/
+    - name: Travel Necessities
+      link: /observatories_forum/travel_necessities/
