@@ -28,3 +28,6 @@ Topics will include:
     signal-to-noise/exposure time calculators etc
 - Recent and planned development
   - Towards generalized APIs for proposal, observation requests across wavelengths
+
+### Questions?
+Please reach out to the workshop LOC at obsforum [at] lco.global.
