@@ -10,7 +10,7 @@ menubar: forum_menu
 ## During the day
 Refreshments will be provided for morning and afternoon coffee.  
 
-## Dinning Options
+## Dining Options
 
 Santa Barbara has a wide range of excellent restaurants, clustered downtown but also in Goleta.  
 
