@@ -6,28 +6,33 @@ menubar: forum_menu
 ---
 
 # Agenda
-All times are in Pacific Daylight Time zone.  
+Please note: this agenda is preliminary and may change.
+
+All times are in the Pacific Daylight Time zone.  
+
+All speakers should allow ~5min for questions at the end of their talk or demo.  I.e. a 30min slot = 25min + 5min. 
 
 | <a href="/observatories_forum/agenda/"><button type="button">Day 1: Tuesday, Sept 23</button></a> | <a href="/observatories_forum/agenda2/"><button type="button">Day 2: Wednesday, Sept 24</button></a> | <a href="/observatories_forum/agenda3/"><button type="button">Day 3: Thursday, Sept 25</button></a> |
 
 ## Day 3: Thursday, Sept 25, 2025
 ### AM Session 1: Science with AEON	
 
-| Time  | Duration | Speaker | Title                                                                  |
-|-------| -------- | ------- |------------------------------------------------------------------------|
-| 09:00	| 5min	| Rachel Street	| Logistics and announcements				|	
-| 09:05	| 30min	| Cesár Briceño	| AEON at the SOAR and Blanco 4m telescopes		|			
-| 09:35	| 30min	| Hannah Crayton | The software behind AEON at SOAR and Blanco		|			
-| 10:05	| 30min	| Bryan Miler	| GPP: Gemini's Next Generation Operations Software		|
-| 10:35	| 25min	| Chair: TBC	| Discussion: Multi-facility, pan-wavelength proposal opportunities to support major programs e.g. for Rubin		|			
-| 11:00	| 30min	|   |  Break				|
+| Time   | Duration | Speaker | Title                                                                  |
+|--------|----------| ------- |------------------------------------------------------------------------|
+| 08:55	 | 5min	    | Rachel Street	| Logistics and announcements				|	
+| 09:00	 | 30min	   | Cesár Briceño	| AEON at the SOAR and Blanco 4m telescopes		|			
+| 09:30	 | 30min	   | Hannah Crayton | The software behind AEON at SOAR and Blanco		|			
+| 10:00	 | 30min	   | Bryan Miler	| GPP: Gemini's Next Generation Operations Software		|
+| 10:30	 | 30min	   | Chair: TBC	| Discussion: Multi-facility, pan-wavelength proposal opportunities to support major programs e.g. for Rubin		|			
+| 11:00	 | 30min	   |   |  Break				|
 
-### AM Session 2: Parallel breakouts Unconference / hack session and discussion			
+### AM Session 2: Unconference session	
+Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
 
-| Time  | Duration | Hack session topics (classroom) | Discussion topics (Farrand Hall)	                                                                  |
-|-------| -------- | ------- |------------------------------------------------------------------------|
-| 11:30	| 1hr 	  | Roadmap for Keck-TOM integration |	Coordinating ground- and space-based observations		|			
-| 12:30	| 1hr 30min	|   | Lunch						|
+| Time  | Duration | Hack session topics (classroom)       | Discussion topics (Farrand Hall)	                         |
+|-------| -------- |---------------------------------------|-----------------------------------------------------------|
+| 11:30	| 1hr 	  | E.g. Roadmap for Keck-TOM integration | 	E.g. Coordinating ground- and space-based observations		 |			
+| 12:30	| 1hr 30min	|                                       | Lunch						                                               |
 
 ### PM Session 3: Time Domain Science and next steps							
 
@@ -38,9 +43,9 @@ All times are in Pacific Daylight Time zone.
 | 14:40	| 20min	| Chair: Rachel Street	| Discussion: Next steps				|	
 | 15:00	| 30min	|   | Break						|
 
-### PM Session 4: Unconference / hack session								
-| Time  | Duration | Hack session topics (classroom) |                                                       |
-|-------| -------- | ------- |
-| 15:30	| 1hr 30min	| Self-organized hack session			|
+### PM Session 4: Unconference session				
 
-								
+| Time  | Duration | Hack session topics (Farrand Hall) |
+|-------| -------- |-------------------------------------------------|
+| 15:30	| 1hr 30min	| Self-organized hack sessions or discussions     |
+| 17:00 |     |  End of workshop | 

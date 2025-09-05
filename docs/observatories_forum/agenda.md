@@ -6,7 +6,11 @@ menubar: forum_menu
 ---
 
 # Agenda
-All times are in Pacific Daylight Time zone.  
+Please note: this agenda is preliminary and may change. 
+
+All times are in the Pacific Daylight Time zone.  
+
+All speakers should allow ~5min for questions at the end of their talk or demo.  I.e. a 30min slot = 25min + 5min. 
 
 | <a href="/observatories_forum/agenda/"><button type="button">Day 1: Tuesday, Sept 23</button></a> | <a href="/observatories_forum/agenda2/"><button type="button">Day 2: Wednesday, Sept 24</button></a> | <a href="/observatories_forum/agenda3/"><button type="button">Day 3: Thursday, Sept 25</button></a> |
 
@@ -15,7 +19,7 @@ All times are in Pacific Daylight Time zone.
 
 | Time  | Duration | Speaker | Title                                                                  |
 |-------| -------- | ------- |------------------------------------------------------------------------|
-| 08:30 | 30min   |         | Registration open                                                      |
+| 08:30 | 30min   |         | Registration open; meet and greet                                      |
 | 09:00	| 10min	  | Rachel Street	| Welcome and introduction to AEON+.                                     |
 | 09:10	| 30min	| Igor Andreoni 	| Time Domain Astrophysics in the ZTF, LVK and Rubin Era                 |
 | 09:40	| 30min	| Andy Howell	    | Overview of the software ecosystem                                     |
@@ -31,12 +35,13 @@ All times are in Pacific Daylight Time zone.
 | 12:00	| 30min	| Austin Riba	| AEONlib hands-on demo |
 | 12:30	| 1hr 30min	| Lunch			|
 
-### PM Session 3: Parallel breakouts Unconference / hack session and discussion
+### PM Session 3: Unconference session
+Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
 
-| Time  | Duration | Hack session topics (classroom) | Discussion topics (Farrand Hall)	                                                                  |
-|-------| -------- | ------- |------------------------------------------------------------------------|
-| 14:00	| 1hr 	| TOM-HEROIC integration	| Multi-facility, multi-wavelength proposal opportunities 				|
-| 		| 		| Update TOM-Gemini module for GPP			| Multi-facility, multi-wavelength proposal opportunities |	
+| Time  | Duration | Hack session topics (classroom)          | Discussion topics (Farrand Hall)	                                 |
+|-------| -------- |------------------------------------------|-------------------------------------------------------------------|
+| 14:00	| 1hr 	| E.g. TOM-HEROIC integration	             | E.g. Multi-facility, multi-wavelength proposal opportunities 				 |
+| 		| 		| E.g. Update TOM-Gemini module for GPP			 |                                                                   |	
 
 ### PM Session 4: Ground-based telescope operations							
 
