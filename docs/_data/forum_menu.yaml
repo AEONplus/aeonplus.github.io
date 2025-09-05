@@ -4,6 +4,8 @@
       link: observatories_forum
     - name: Registration
       link: /observatories_forum/registration/
+    - name: Agenda
+      link: /observatories_forum/agenda/
     - name: Venue
       link: /observatories_forum/venue/
     - name: Travel
