@@ -17,14 +17,14 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ## Day 3: Thursday, Sept 25, 2025
 ### AM Session 1: Science with AEON	
 
-| Time   | Duration | Speaker | Title                                                                  |
-|--------|----------| ------- |------------------------------------------------------------------------|
-| 08:55	 | 5min	    | Rachel Street	| Logistics and announcements				|	
-| 09:00	 | 30min	   | Cesár Briceño	| AEON at the SOAR and Blanco 4m telescopes		|			
-| 09:30	 | 30min	   | Hannah Crayton | The software behind AEON at SOAR and Blanco		|			
-| 10:00	 | 30min	   | Bryan Miler	| GPP: Gemini's Next Generation Operations Software		|
-| 10:30	 | 30min	   | Chair: TBC	| Discussion: Multi-facility, pan-wavelength proposal opportunities to support major programs e.g. for Rubin		|			
-| 11:00	 | 30min	   |   |  Break				|
+| Time   | Duration | Speaker         | Title                                               |
+|--------|----------|-----------------|-----------------------------------------------------|
+| 08:55	 | 5min	    | Rachel Street	  | Logistics and announcements				                     |	
+| 09:00	 | 30min	   | Cesár Briceño	  | AEON at the SOAR and Blanco 4m telescopes		         |			
+| 09:30	 | 30min	   | Hannah Crayton  | The software behind AEON at SOAR and Blanco		       |			
+| 10:00	 | 30min	   | Bryan Miler	    | GPP: Gemini's Next Generation Operations Software		 |
+| 10:30	 | 30min	   | Joshua Haislip |  Skynet 2.0                                                   |			
+| 11:00	 | 30min	   |                 | Break				                                           |
 
 ### AM Session 2: Unconference session	
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
@@ -36,12 +36,12 @@ Breakout sessions will follow an unconference model and participants are encoura
 
 ### PM Session 3: Time Domain Science and next steps							
 
-| Time  | Duration | Speaker | Title                                                                  |
-|-------| -------- | ------- |------------------------------------------------------------------------|
-| 14:00	| 20min	| Niharika Sravan	| Machine-directed Gravitational-wave Counterpart Discovery 		|	
-| 14:20	| 20min	| Sahana Kumar	    | The Search for Stable Nickel: NIR spectroscopy of SNe Ia 		|			
-| 14:40	| 20min	| Chair: Rachel Street	| Discussion: Next steps				|	
-| 15:00	| 30min	|   | Break						|
+| Time  | Duration | Speaker          | Title                                                                  |
+|-------| -------- |------------------|------------------------------------------------------------------------|
+| 14:00	| 20min	| Niharika Sravan	 | Machine-directed Gravitational-wave Counterpart Discovery 		|	
+| 14:20	| 20min	| Chien-Hsiu Lee	  | Ground based observations for space domain awareness		|			
+| 14:40	| 20min	| Sahana Kumar	    | The Search for Stable Nickel: NIR spectroscopy of SNe Ia 		|	
+| 15:00	| 30min	|                  | Break						|
 
 ### PM Session 4: Unconference session				
 
