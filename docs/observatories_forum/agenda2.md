@@ -17,14 +17,14 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ## Day 2: Wednesday, Sept 24, 2025
 ### AM Session 1: Radio and submm facilities
 
-| Time  | Duration | Speaker             | Title                                                                  |
-|-------| -------- |---------------------|------------------------------------------------------------------------|
-| 08:55	| 5min	| Rachel Street	      | Logistics and announcements				|	
-| 09:00	| 20min	| Nayana A.J.         | Time Domain Astrophysics and the need for pan-wavelength follow-up				|
-| 09:20	| 20min	| Lukasz Wyrzykowski	 | Power of many - BHTOM to rule them all	|	
-| 09:40	| 20min	| Poonam Chandra	     | Radio Wavelength efforts in time domain astronomy			|		
-| 10:00	| 60min	| Chair: TBC	         | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			|
-| 11:00	| 30min	|                     | Break					|
+| Time   | Duration | Speaker             | Title                                                                  |
+|--------|----------|---------------------|------------------------------------------------------------------------|
+| 08:55	 | 5min	    | Rachel Street	      | Logistics and announcements				|	
+| 09:00	 | 30min	   | Nayana A.J.         | Time Domain Astrophysics and the need for pan-wavelength follow-up				|
+| 09:30	 | 20min	   | Lukasz Wyrzykowski	 | Power of many - BHTOM to rule them all	|	
+| 09:50	 | 20min	   | Poonam Chandra	     | Radio Wavelength efforts in time domain astronomy			|		
+| 10:10	 | 50min	   | Chair: TBC	         | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			|
+| 11:00	 | 30min	   |                     | Break					|
 
 ### AM Session 2: Unconference session
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
