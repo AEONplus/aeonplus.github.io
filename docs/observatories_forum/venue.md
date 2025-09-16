@@ -15,5 +15,16 @@ located in the beautiful foothills above the city.
 
 Address: 2559 Puesta del Sol, Santa Barbara, CA 93105
 
-Most sessions will take place in the Farrand Hall lecture theatre.  The museum has on-site parking within easy 
-walking distance.  
+The museum has free on-site parking within easy walking distance.  
+
+## Getting to the meeting rooms
+To the right of the parking lot you will see the skeleton of a whale; please enter the museum through 
+iron gates just to the right of this landmark, rather than through the public entrance.  Continue straight 
+through the main concourse and turn right at the fountain.  
+
+Plenary sessions will be held in Farrand Hall, and breakout sessions will be in the neighboring classrooms.  
+
+<figure class="image">
+  <img src="/assets/images/SBMNH_campus_map_annotated.png">
+    <figcaption>Map of the Santa Barbara Museum of Natural History campus</figcaption>
+</figure>
