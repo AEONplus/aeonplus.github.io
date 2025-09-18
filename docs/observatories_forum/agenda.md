@@ -16,6 +16,7 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 
 ## Day 1: Tuesday, Sept 23, 2025
 ### AM Session 1: Time Domain Astrophysics and the software ecosystem
+Chair: Rachel Street
 
 | Time  | Duration | Speaker                   | Title                                                                  |
 |-------| -------- |---------------------------|------------------------------------------------------------------------|
@@ -28,6 +29,7 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 | 11:00 | 30min | Break                     |
 
 ### AM Session 2: Coordinating observations				
+Chair: Chien-Hsiu Lee
 
 | Time  | Duration | Speaker | Title                                                                  |
 |-------| -------- | ------- |------------------------------------------------------------------------|
@@ -44,6 +46,7 @@ Breakout sessions will follow an unconference model and participants are encoura
 | 		| 		| E.g. Update TOM-Gemini module for GPP			 |                                                                   |	
 
 ### PM Session 4: Ground-based telescope operations							
+Chair: Andy Howell
 
 | Time  | Duration | Speaker | Title                                                                                       |
 |-------| -------- | ------- |---------------------------------------------------------------------------------------------|

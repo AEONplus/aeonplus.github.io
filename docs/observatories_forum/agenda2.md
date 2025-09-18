@@ -16,15 +16,16 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 
 ## Day 2: Wednesday, Sept 24, 2025
 ### AM Session 1: Radio and submm facilities
+Chair: Rachel Street
 
-| Time   | Duration | Speaker             | Title                                                                  |
-|--------|----------|---------------------|------------------------------------------------------------------------|
-| 08:55	 | 5min	    | Rachel Street	      | Logistics and announcements				|	
-| 09:00	 | 30min	   | Nayana A.J.         | Time Domain Astrophysics and the need for pan-wavelength follow-up				|
-| 09:30	 | 20min	   | Lukasz Wyrzykowski	 | Power of many - BHTOM to rule them all	|	
-| 09:50	 | 20min	   | Poonam Chandra	     | Radio Wavelength efforts in time domain astronomy			|		
-| 10:10	 | 50min	   | Chair: TBC	         | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			|
-| 11:00	 | 30min	   |                     | Break					|
+| Time   | Duration | Speaker                | Title                                                                  |
+|--------|----------|------------------------|------------------------------------------------------------------------|
+| 08:55	 | 5min	    | Rachel Street	         | Logistics and announcements				|	
+| 09:00	 | 30min	   | Nayana A.J.            | Time Domain Astrophysics and the need for pan-wavelength follow-up				|
+| 09:30	 | 20min	   | Lukasz Wyrzykowski	    | Power of many - BHTOM to rule them all	|	
+| 09:50	 | 20min	   | Poonam Chandra	        | Radio Wavelength efforts in time domain astronomy			|		
+| 10:10	 | 50min	   | Chair: Curtis McCully	 | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			|
+| 11:00	 | 30min	   |                        | Break					|
 
 ### AM Session 2: Unconference session
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
@@ -35,6 +36,7 @@ Breakout sessions will follow an unconference model and participants are encoura
 | 12:30	| 1hr 30min	|                                        | Lunch		                                                                               |
 
 ### PM Session 3: Ground-based observatories					
+Chair: Hannah Crayton
 
 | Time  | Duration | Speaker | Title                                                                  |
 |-------| -------- | ------- |------------------------------------------------------------------------|
@@ -45,10 +47,16 @@ Breakout sessions will follow an unconference model and participants are encoura
 | 15:30	| 30min	|   | Break						|
 
 ### PM Session 4: Space-based telescope operations							
+Chair: Griffin Hosseinzadeh
 
 | Time  | Duration | Speaker | Title                                                                  |
 |-------| -------- | ------- |------------------------------------------------------------------------|
 | 16:00	| 20min	| Jamie Kennea	| NASA's Astrophysics Cross Observatory Science Support (ACROSS) Project 		|			
 | 16:20	| 20min	| Craig Pelligrino	| NASA - Astrophysics Cross-Observatory Science Support (ACROSS) Server, and Data-Ingestion design	|			
 | 16:40	| 20min	| Hannah Earnshaw	| NuSTAR Mission Overview and Time-Domain Response			|		
-| 17:00	 | End of day  |   | Dinner self-organized			|	
+| 17:00	| End of day   | | Dinner self-organized		|
+
+### Planetarium Show
+
+| 5:30pm  | 30min | Museum staff will host a showing of [Rubin Observatory's "Messengers of Time and Space"](https://noirlab.edu/public/products/planetarium-shows/planetarium-show006/#:~:text=Messengers%20of%20Time%20and%20Space%20is%20a%20fulldome%20planetarium%20show,domain%20and%20multi%2Dmessenger%20observations.) in the Gladwin Planetarium. 
+|         |       | Please note that places are limited. |

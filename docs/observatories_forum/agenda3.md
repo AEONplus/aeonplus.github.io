@@ -16,6 +16,7 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 
 ## Day 3: Thursday, Sept 25, 2025
 ### AM Session 1: Science with AEON	
+Chair: Cam Wipper
 
 | Time   | Duration | Speaker         | Title                                               |
 |--------|----------|-----------------|-----------------------------------------------------|
@@ -35,6 +36,7 @@ Breakout sessions will follow an unconference model and participants are encoura
 | 12:30	| 1hr 30min	|                                       | Lunch						                                               |
 
 ### PM Session 3: Time Domain Science and next steps							
+Chair: Stephen Potter
 
 | Time  | Duration | Speaker          | Title                                                                  |
 |-------| -------- |------------------|------------------------------------------------------------------------|
