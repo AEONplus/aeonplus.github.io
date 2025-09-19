@@ -24,7 +24,8 @@ Chair: Rachel Street
 | 09:00	 | 30min	   | Nayana A.J.            | Time Domain Astrophysics and the need for pan-wavelength follow-up				|
 | 09:30	 | 20min	   | Lukasz Wyrzykowski	    | Power of many - BHTOM to rule them all	|	
 | 09:50	 | 20min	   | Poonam Chandra	        | Radio Wavelength efforts in time domain astronomy			|		
-| 10:10	 | 50min	   | Chair: Curtis McCully	 | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			|
+| 10:10	 | 40min	   | Chair: Curtis McCully	 | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			|
+| 10:50  | 10min        | Destry Saul           | Project Dovetail              |
 | 11:00	 | 30min	   |                        | Break					|
 
 ### AM Session 2: Unconference session
