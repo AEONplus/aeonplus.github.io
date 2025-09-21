@@ -18,15 +18,15 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ### AM Session 1: Time Domain Astrophysics and the software ecosystem
 Chair: Rachel Street
 
-| Time  | Duration | Speaker                   | Title                                                                  |
-|-------| -------- |---------------------------|------------------------------------------------------------------------|
-| 08:30 | 30min   |                           | Registration open; meet and greet                                      |
-| 09:00	| 10min	  | Rachel Street	            | Welcome and introduction to AEON+.                                     |
-| 09:10	| 30min	| Igor Andreoni	            | Time Domain Astrophysics in the ZTF, LVK and Rubin Era                 |
-| 09:40	| 30min	| Andy Howell	              | Overview of the software ecosystem                                     |
-| 10:10	| 20min	| Fabián Araneda-Baltierra	 | HEROIC – Hop Enabled Realtime Observatory Information and Coordination |
-| 10:30	| 30min	| Moira Andrews	            | SNEx and Hermes                                                        |
-| 11:00 | 30min | Break                     |
+| Time   | Duration | Speaker                   | Title                                                                  |
+|--------| -------- |---------------------------|------------------------------------------------------------------------|
+| 08:30  | 30min   |                           | Registration open; meet and greet                                      |
+| 08:55	 | 10min	  | Rachel Street	            | Welcome and introduction to AEON+.                                     |
+| 09:10	 | 30min	| Igor Andreoni	            | Time Domain Astrophysics in the ZTF, LVK and Rubin Era                 |
+| 09:40	 | 30min	| Andy Howell	              | Overview of the software ecosystem                                     |
+| 10:10	 | 20min	| Fabián Araneda-Baltierra	 | HEROIC – Hop Enabled Realtime Observatory Information and Coordination |
+| 10:30	 | 30min	| Moira Andrews	            | SNEx and Hermes                                                        |
+| 11:00  | 30min | Break                     |
 
 ### AM Session 2: Coordinating observations				
 Chair: Chien-Hsiu Lee
