@@ -14,5 +14,8 @@ requests for observations to any AEON-compatible telescope at the click of a but
 automated for highly responsive follow-up.  
 
 The TOM Toolkit is an open-source package designed to make it easy for astronomers to build and customize
-a TOM system for their research program.  More information about the TOM Toolkit can be found 
-<a href="https://lco.global/tomtoolkit/">here</a>.
+a TOM system for their research program.  
+
+More information about the TOM Toolkit can be found 
+<a href="https://lco.global/tomtoolkit/">here</a>, including training materials on how to install the package and
+build and customize your TOM system.
