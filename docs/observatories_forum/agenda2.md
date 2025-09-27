@@ -18,15 +18,15 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ### AM Session 1: Radio and submm facilities
 Chair: Rachel Street
 
-| Time   | Duration | Speaker                | Title                                                                  |
-|--------|----------|------------------------|------------------------------------------------------------------------|
-| 08:55	 | 5min	    | Rachel Street	         | Logistics and announcements				|	
-| 09:00	 | 30min	   | Nayana A.J.            | Time Domain Astrophysics and the need for pan-wavelength follow-up				|
-| 09:30	 | 20min	   | Lukasz Wyrzykowski	    | Power of many - BHTOM to rule them all	|	
-| 09:50	 | 20min	   | Poonam Chandra	        | Radio Wavelength efforts in time domain astronomy			|		
-| 10:10	 | 40min	   | Chair: Curtis McCully	 | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			|
-| 10:50  | 10min        | Destry Saul           | Project Dovetail              |
-| 11:00	 | 30min	   |                        | Break					|
+| Time   | Duration | Speaker                | Title                                                                                                                                                           |
+|--------|----------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 08:55	 | 5min	    | Rachel Street	         | Logistics and announcements				                                                                                                                                 |	
+| 09:00	 | 30min	   | Nayana A.J.            | [Time Domain Astrophysics and the need for pan-wavelength follow-up](https://drive.google.com/file/d/1WXPShNCP-MQoBuZs2B7CuNHSHjOD1KZ5/view?usp=drive_link)				 |
+| 09:30	 | 20min	   | Lukasz Wyrzykowski	    | Power of many - BHTOM to rule them all	                                                                                                                         |	
+| 09:50	 | 20min	   | Poonam Chandra	        | Radio Wavelength efforts in time domain astronomy			                                                                                                            |		
+| 10:10	 | 40min	   | Chair: Curtis McCully	 | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			                                              |
+| 10:50  | 10min        | Destry Saul           | [Project Dovetail](https://drive.google.com/file/d/19-TEeB9iwUUtseGilk1hYW8EmJ6ey9jE/view?usp=drive_link)                                                       |
+| 11:00	 | 30min	   |                        | Break					                                                                                                                                                      |
 
 ### AM Session 2: Unconference session
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
@@ -50,12 +50,12 @@ Chair: Hannah Crayton
 ### PM Session 4: Space-based telescope operations							
 Chair: Griffin Hosseinzadeh
 
-| Time  | Duration | Speaker | Title                                                                  |
-|-------| -------- | ------- |------------------------------------------------------------------------|
-| 16:00	| 20min	| Jamie Kennea	| NASA's Astrophysics Cross Observatory Science Support (ACROSS) Project 		|			
-| 16:20	| 20min	| Craig Pelligrino	| NASA - Astrophysics Cross-Observatory Science Support (ACROSS) Server, and Data-Ingestion design	|			
-| 16:40	| 20min	| Hannah Earnshaw	| NuSTAR Mission Overview and Time-Domain Response			|		
-| 17:00	| End of day   | | Dinner self-organized		|
+| Time  | Duration | Speaker | Title                                                                                                                                                              |
+|-------| -------- | ------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 16:00	| 20min	| Jamie Kennea	| [NASA's Astrophysics Cross Observatory Science Support (ACROSS) Project](https://drive.google.com/file/d/1UhQ4kXyOANvvPAhJ_gPJDqce5rNLdRDh/view?usp=drive_link) 		 |			
+| 16:20	| 20min	| Craig Pelligrino	| NASA - Astrophysics Cross-Observatory Science Support (ACROSS) Server, and Data-Ingestion design	                                                                  |			
+| 16:40	| 20min	| Hannah Earnshaw	| [NuSTAR Mission Overview and Time-Domain Response](https://drive.google.com/file/d/1uFlufBHE_BiOWfnZXUVyFgnIlblz7tAZ/view?usp=drive_link)			                       |		
+| 17:00	| End of day   | | Dinner self-organized		                                                                                                                                            |
 
 ### Planetarium Show
 
