@@ -18,15 +18,15 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ### AM Session 1: Time Domain Astrophysics and the software ecosystem
 Chair: Rachel Street
 
-| Time   | Video timestamp | Speaker                   | Title                                                                                                                                                           |
-|--------|-----------------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 08:30  |                 |                           | Registration open; meet and greet                                                                                                                               |
-| 08:55	 | 	               | Rachel Street	            | Welcome and introduction to AEON+.                                                                                                                              |
-| 09:10	 | 00:00:12	       | Igor Andreoni	            | [Time Domain Astrophysics in the ZTF, LVK and Rubin Era](https://drive.google.com/file/d/1Os9bimh1xb1rfrxJ7Tw-9C-tOLrZjLVw/view?usp=drive_link)                 |
-| 09:40	 | 00:30:00	       | Andy Howell	              | [Overview of the software ecosystem](https://drive.google.com/file/d/1yCs-d14uYMEKoBsoyiTErPCyVay9KTEm/view?usp=drive_link)                                     |
+| Time   | Video timestamp | Speaker                  | Title                                                                                                                                                           |
+|--------|-----------------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 08:30  |                 |                          | Registration open; meet and greet                                                                                                                               |
+| 08:55	 | 	               | Rachel Street	           | Welcome and introduction to AEON+.                                                                                                                              |
+| 09:10	 | 00:00:12	       | Igor Andreoni	           | [Time Domain Astrophysics in the ZTF, LVK and Rubin Era](https://drive.google.com/file/d/1Os9bimh1xb1rfrxJ7Tw-9C-tOLrZjLVw/view?usp=drive_link)                 |
+| 09:40	 | 00:30:00	       | Andy Howell	             | [Overview of the software ecosystem](https://drive.google.com/file/d/1yCs-d14uYMEKoBsoyiTErPCyVay9KTEm/view?usp=drive_link)                                     |
 | 10:10	 | 01:02:38	       | Fabián Araneda-Baltierra	 | [HEROIC – Hop Enabled Realtime Observatory Information and Coordination](https://drive.google.com/file/d/14plbNcvbcacVvvXfYQ3fsmk12F23uZoV/view?usp=drive_link) |
-| 10:30	 | 01:21:51	       | Moira Andrews	            | [SNEx and Hermes](https://drive.google.com/file/d/1OW7iVM4deZehR-5NgVL8HxZ47MBabSUY/view?usp=drive_link)                                                        |
-| 11:00  | 30min           | Break                     |
+| 10:30	 | 01:21:51	       | Moira Andrews	           | [SNEx and Hermes](https://drive.google.com/file/d/1OW7iVM4deZehR-5NgVL8HxZ47MBabSUY/view?usp=drive_link)                                                        |
+| 11:00  | 30min           | Break                    |
 
 Session recording
 <iframe width="889" height="500" src="https://www.youtube.com/embed/krGWPkO9FU4" title="Observatories Forum 2025: Day1, Session1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
