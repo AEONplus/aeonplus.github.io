@@ -56,12 +56,12 @@ Session recording
 ### PM Session 4: Space-based telescope operations							
 Chair: Griffin Hosseinzadeh
 
-| Time  | Video timestamp | Speaker | Title                                                                                                                                                              |
-|-------|-----------------| ------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 16:00	| 00:00:13	       | Jamie Kennea	| [NASA's Astrophysics Cross Observatory Science Support (ACROSS) Project](https://drive.google.com/file/d/1UhQ4kXyOANvvPAhJ_gPJDqce5rNLdRDh/view?usp=drive_link) 		 |			
-| 16:20	| 00:15:40	       | Craig Pelligrino	| NASA - Astrophysics Cross-Observatory Science Support (ACROSS) Server, and Data-Ingestion design	                                                                  |			
-| 16:40	| 00:38:35        | Hannah Earnshaw	| [NuSTAR Mission Overview and Time-Domain Response](https://drive.google.com/file/d/1uFlufBHE_BiOWfnZXUVyFgnIlblz7tAZ/view?usp=drive_link)			                       |		
-| 17:00	| End of day      | | Dinner self-organized		                                                                                                                                            |
+| Time  | Video timestamp | Speaker | Title                                                                                                                                                                                                                                           |
+|-------|-----------------| ------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 16:00	| 00:00:13	       | Jamie Kennea	| [NASA's Astrophysics Cross Observatory Science Support (ACROSS) Project](https://drive.google.com/file/d/1UhQ4kXyOANvvPAhJ_gPJDqce5rNLdRDh/view?usp=drive_link) 		                                                                              |			
+| 16:20	| 00:15:40	       | Craig Pelligrino	| [NASA - Astrophysics Cross-Observatory Science Support (ACROSS) Server, and Data-Ingestion design](https://docs.google.com/presentation/d/1hjkCrMS_W9V_UgEZwUuUyD0s-jfq4yjh/edit?usp=drive_link&ouid=116755335466254621154&rtpof=true&sd=true)	 |			
+| 16:40	| 00:38:35        | Hannah Earnshaw	| [NuSTAR Mission Overview and Time-Domain Response](https://drive.google.com/file/d/1uFlufBHE_BiOWfnZXUVyFgnIlblz7tAZ/view?usp=drive_link)			                                                                                                    |		
+| 17:00	| End of day      | | Dinner self-organized		                                                                                                                                                                                                                         |
 
 Session recording
 <iframe width="747" height="420" src="https://www.youtube.com/embed/JcXzbxPJGb4" title="Observatories Forum 2025: Day2, Session4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
