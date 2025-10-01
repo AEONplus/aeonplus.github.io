@@ -42,13 +42,13 @@ Breakout sessions will follow an unconference model and participants are encoura
 ### PM Session 3: Ground-based observatories					
 Chair: Hannah Crayton
 
-| Time  | Video timestamp | Speaker | Title                                                                                                                           |
-|-------|-----------------| ------- |---------------------------------------------------------------------------------------------------------------------------------|
-| 14:00	| 00:00:11        | Sergio Cellone	| [Observational facilities at CASLEO](https://drive.google.com/file/d/10w7MeDdMOglyQYdBxZbMZT8Z5_ujGEfW/view?usp=drive_link)		   |			
-| 14:20	| 00:20:49	       | Grant Tremblay	| [Potential for CfA facilities in AEON](https://drive.google.com/file/d/1EDLu4deBFeJkni8U5RM-PtY9QSdUnS3y/view?usp=drive_link)		 |
-| 14:40	| 00:43:10	       | Tyler Coda	    | New tools for time domain observing at Keck		                                                                                   |
-| 15:00	| 01:00:00        | Jon Nation	    | Hands-on demo of the OCS			                                                                                                     |		
-| 15:30	| 30min	          |   | Break						                                                                                                                     |
+| Time  | Video timestamp | Speaker | Title                                                                                                                                  |
+|-------|-----------------| ------- |----------------------------------------------------------------------------------------------------------------------------------------|
+| 14:00	| 00:00:11        | Sergio Cellone	| [Observational facilities at CASLEO](https://drive.google.com/file/d/10w7MeDdMOglyQYdBxZbMZT8Z5_ujGEfW/view?usp=drive_link)		          |			
+| 14:20	| 00:20:49	       | Grant Tremblay	| [Potential for CfA facilities in AEON](https://drive.google.com/file/d/1EDLu4deBFeJkni8U5RM-PtY9QSdUnS3y/view?usp=drive_link)		        |
+| 14:40	| 00:43:10	       | Tyler Coda	    | New tools for time domain observing at Keck		                                                                                          |
+| 15:00	| 01:00:00        | Jon Nation	    | [Hands-on demo of the OCS](https://docs.google.com/presentation/d/1MXM-5vWigFQUDnk-jPAJa4-hDO26p2WBtOkNelSDvXc/edit?usp=drive_link)			 |		
+| 15:30	| 30min	          |   | Break						                                                                                                                            |
 
 Session recording
 <iframe width="747" height="420" src="https://www.youtube.com/embed/S5ah_446bmk" title="Observatories Forum 2025: Day2, Session3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
