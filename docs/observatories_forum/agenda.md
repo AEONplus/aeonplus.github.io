@@ -34,10 +34,10 @@ Session recording
 ### AM Session 2: Coordinating observations				
 Chair: Chien-Hsiu Lee
 
-| Time  | Video timestamp | Speaker | Title                                                                                                                  |
-|-------|-----------------| ------- |------------------------------------------------------------------------------------------------------------------------|
-| 11:30	| 00:11	          | David Sand	| [TreasureMap and TreasureTrove](https://drive.google.com/file/d/1jhsnfmp0cbvJ-mJUs3aP0YHiSf0LJ7WL/view?usp=drive_link) |
-| 12:00	| 26:58           | Austin Riba	| AEONlib hands-on demo                                                                                                  |
+| Time  | Video timestamp | Speaker | Title                                                                                                                            |
+|-------|-----------------| ------- |----------------------------------------------------------------------------------------------------------------------------------|
+| 11:30	| 00:11	          | David Sand	| [TreasureMap and TreasureTrove](https://drive.google.com/file/d/1jhsnfmp0cbvJ-mJUs3aP0YHiSf0LJ7WL/view?usp=drive_link)           |
+| 12:00	| 26:58           | Austin Riba	| [AEONlib hands-on demo](https://docs.google.com/presentation/d/1piBmOk4T_RjWeTeK9L2OpONdHsG_dWjGWZMeN-fZlg0/edit?usp=drive_link) |
 | 12:30	| 1hr 30min	      | Lunch			|
 
 Session recording
@@ -54,12 +54,12 @@ Breakout sessions will follow an unconference model and participants are encoura
 ### PM Session 4: Ground-based telescope operations							
 Chair: Andy Howell
 
-| Time  | Video timestamps | Speaker | Title                                                                                                                                                                            |
-|-------|------------------| ------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 15:30	| 00:00:11         | Griffin Hosseinzadeh	| [PASSTA: The Public AEON Spectroscopic Survey for Transient Astronomy](https://drive.google.com/file/d/14__IB0kawbnPj9zdQI1JH_UgI7oOogdt/view?usp=drive_link)	                   |				
-| 16:00	| 00:30:02         | Stephen Potter	| [The Intelligent Observatory (IO)](https://docs.google.com/presentation/d/1rJFxBMwJHG9oqfyeB77omSM9GXN9_sju/edit?usp=drive_link&ouid=116755335466254621154&rtpof=true&sd=true) 	 |	
-| 16:30	| 00:58:59         | Cam Wipper	| Kealahou + AEON: Upgrading CFHT's QSO System for the LSST Era	Demo and feedback discussion	                                                                                      |			
-| 17:00	| End of day       | | Dinner self-organized		                                                                                                                                                          |
+| Time  | Video timestamps | Speaker | Title                                                                                                                                                                                |
+|-------|------------------| ------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15:30	| 00:00:11         | Griffin Hosseinzadeh	| [PASSTA: The Public AEON Spectroscopic Survey for Transient Astronomy](https://drive.google.com/file/d/14__IB0kawbnPj9zdQI1JH_UgI7oOogdt/view?usp=drive_link)	                       |				
+| 16:00	| 00:30:02         | Stephen Potter	| [The Intelligent Observatory (IO)](https://docs.google.com/presentation/d/1rJFxBMwJHG9oqfyeB77omSM9GXN9_sju/edit?usp=drive_link&ouid=116755335466254621154&rtpof=true&sd=true) 	     |	
+| 16:30	| 00:58:59         | Cam Wipper	| [Kealahou + AEON: Upgrading CFHT's QSO System for the LSST Era](https://drive.google.com/file/d/1uQA_wMOYbW0CRQsFp44umUXtoKNgMPzp/view?usp=drive_link)	 |			
+| 17:00	| End of day       | | Dinner self-organized		                                                                                                                                                              |
 
 Session recording
 <iframe width="889" height="500" src="https://www.youtube.com/embed/MAngDUIoTOQ" title="Observatories Forum 2025: Day1, Session4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
