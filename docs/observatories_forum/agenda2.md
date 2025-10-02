@@ -22,7 +22,7 @@ Chair: Rachel Street
 |--------|-----------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:55	 | 	               | Rachel Street	         | Logistics and announcements				                                                                                                                                 |	
 | 09:00	 | 00:02:30	       | Nayana A.J.            | [Time Domain Astrophysics and the need for pan-wavelength follow-up](https://drive.google.com/file/d/1WXPShNCP-MQoBuZs2B7CuNHSHjOD1KZ5/view?usp=drive_link)				 |
-| 09:30	 | 00:31:44	       | Lukasz Wyrzykowski	    | Power of many - BHTOM to rule them all	                                                                                                                         |	
+| 09:30	 | 00:31:44	       | Lukasz Wyrzykowski	    | [Power of many - BHTOM to rule them all](https://drive.google.com/file/d/1eUzw-1juYeKWn8kpEi6DmdTAsd2mdUDa/view?usp=drive_link)	                                |	
 | 09:50	 | 00:54:52	       | Poonam Chandra	        | [Radio Wavelength efforts in time domain astronomy](https://drive.google.com/file/d/1lEr7gbOq3PDRuW3tewC7skomWHRArPuQ/view?usp=drive_link)			                   |		
 | 10:10	 | 01:22:00	       | Chair: Curtis McCully	 | Discussion: AEON-like observations with radio and submm facilities - science motivations, technical constraints			                                              |
 | 10:50  | 01:52:06        | Destry Saul           | [Project Dovetail](https://drive.google.com/file/d/19-TEeB9iwUUtseGilk1hYW8EmJ6ey9jE/view?usp=drive_link)                                                       |
