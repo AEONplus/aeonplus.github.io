@@ -21,7 +21,7 @@ Chair: Cam Wipper
 | Time   | Video timestamp | Speaker         | Title                                                                                                                                                          |
 |--------|-----------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:55	 | 	               | Rachel Street	  | Logistics and announcements				                                                                                                                                |	
-| 09:00	 | 00:02:42	       | Cesár Briceño	  | AEON at the SOAR and Blanco 4m telescopes		                                                                                                                    |			
+| 09:00	 | 00:02:42	       | Cesár Briceño	  | [AEON at the SOAR and Blanco 4m telescopes](https://drive.google.com/file/d/1JCxXPy4sojIz6krJOSI_1oXfETv2ybqw/view?usp=drive_link)		                           |			
 | 09:30	 | 00:35:04	       | Hannah Crayton  | [The software behind AEON at SOAR and Blanco](https://docs.google.com/presentation/d/1zAGkoYIml_G-X77uVz2RfaJg1-v44fa28fOuW_KZZU0/edit?usp=drive_link)		       |			
 | 10:00	 | 01:05:54	       | Bryan Miler	    | [GPP: Gemini's Next Generation Operations Software](https://docs.google.com/presentation/d/1F7jxl9nac9IFHyunsCzvdwvBGvX_GebnlwmjbxYUMu0/edit?usp=drive_link)		 |
 | 10:30	 | 01:30:13	       | Joshua Haislip | Skynet 2.0                                                                                                                                                     |			
