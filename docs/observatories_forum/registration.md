@@ -7,4 +7,4 @@ menubar: forum_menu
 
 # Registration 
 
-Registration for this event is now closed.  We hope you'll join us next time!
+Registration for this event is not yet open.  Please check back soon!

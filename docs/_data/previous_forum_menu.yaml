@@ -1,0 +1,6 @@
+- label: Observatories Forum
+  items:
+    - name: Forum Home
+      link: observatories_forum
+    - name: Previous Workshops
+      link: /observatories_forum/previous_workshops/

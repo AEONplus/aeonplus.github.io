@@ -2,10 +2,20 @@
 layout: page
 title: Previous Workshops
 show_sidebar: false
-menubar: forum_menu
+menubar: previous_forum_menu
 ---
 
 # Previous Workshops
+
+## Observatories Forum 2025
+### Santa Barbara, CA | Sept 23-25, 2025
+
+[Agenda and content](/observatories_forum/2025/agenda2025_1/)
+
+The first Observatories Forum workshop was a 3-day event featuring presentations from 
+representatives from optical and radio observatories on the ground and in space, 
+as well as talks on a range of different time domain science.  The agenda 
+allowed time for small-group hacking sessions as well as discussions and demonstrations.
 
 ## Observatories Workshop at LSST@Europe V
 ### Poreč, Croatia | September 25-29 2023

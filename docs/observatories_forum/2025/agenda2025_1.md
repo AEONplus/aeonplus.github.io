@@ -2,7 +2,7 @@
 layout: page
 title: Agenda
 show_sidebar: false
-menubar: forum_menu
+menubar: previous_forum_menu
 ---
 
 # Agenda
@@ -12,7 +12,7 @@ All times are in the Pacific Daylight Time zone.
 
 All speakers should allow ~5min for questions at the end of their talk or demo.  I.e. a 30min slot = 25min + 5min. 
 
-| <a href="/observatories_forum/agenda/"><button type="button">Day 1: Tuesday, Sept 23</button></a> | <a href="/observatories_forum/agenda2/"><button type="button">Day 2: Wednesday, Sept 24</button></a> | <a href="/observatories_forum/agenda3/"><button type="button">Day 3: Thursday, Sept 25</button></a> |
+| <a href="/observatories_forum/2025/agenda2025_1/"><button type="button">Day 1: Tuesday, Sept 23</button></a> | <a href="/observatories_forum/2025/agenda2025_2/"><button type="button">Day 2: Wednesday, Sept 24</button></a> | <a href="/observatories_forum/2025/agenda2025_3/"><button type="button">Day 3: Thursday, Sept 25</button></a> |
 
 ## Day 1: Tuesday, Sept 23, 2025
 ### AM Session 1: Time Domain Astrophysics and the software ecosystem
