@@ -7,4 +7,8 @@ menubar: forum_menu
 
 # Registration 
 
-Registration for this event is not yet open.  Please check back soon!
+Please use the form below to register.
+The deadline for in person attendance is Sept 30, 2026. 
+Registration for virtual attendance will remain open until Oct 28, 2026. 
+
+[![](/assets/images/registration_button.png)](https://docs.google.com/forms/d/e/1FAIpQLSf9EDmBXChy2fGd74xPekxmRb7j4KR_I_boVEuN1L3WSdRdCg/viewform?usp=dialog)
