@@ -24,7 +24,7 @@ Chair: TBD
 | 09:00	 | Rachel Street	 | Welcome and logistics                                                           |
 | 09:10	 | Bryan Miller | Approaching Full AEON: Updates on Major Software Efforts at Gemini Observatory  |
 | 09:40	 | Reed Fu | Skynet Global Observatory: Recent Advances and AEON+ Access       |
-| 10:10	 | Felipe Olivares Estay | Mapping the Transient Sky: WFCAM NIR Science and Multi-Messenger Follow-Up at UKIRT     |
+| 10:10	 | Alison Costa |  NRAO's New Telescope Time Allocation Tools: Software Suite for Proposal Submission and Review   |
 | 11:00  | 30min          | Break                                                                           |
 
 
@@ -43,7 +43,7 @@ Chair: TBD
 | Time   | Speaker         | Title                                                              |
 |--------|-----------------|--------------------------------------------------------------------|
 | 14:00	 |  Craig Pellegrino  | The ACROSS Project’s Generalized Observation Request Management System	 |				
-| 14:30	 | 	Alison Costa |  NRAO's New Telescope Time Allocation Tools: Software Suite for Proposal Submission and Review   |	
+| 14:30	 | 	Felipe Olivares Estay | Mapping the Transient Sky: WFCAM NIR Science and Multi-Messenger Follow-Up at UKIRT     |
 | 15:00	 |  Malte Marquarding | Operations and software at ATNF   |			
 | 15:30	 | 30min           | Break                                                              |
 
