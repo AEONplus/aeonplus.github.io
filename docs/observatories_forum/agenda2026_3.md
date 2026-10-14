@@ -17,7 +17,7 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 
 ## Day 3: Friday, Oct 30, 2026
 ### AM Session 1: 
-Chair: TBD
+Chair: Samuel Wyatt
 
 | Time   | Speaker        | Title                                                                           |
 |--------|----------------|---------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ Chair: TBD
 
 
 ### AM Session 2: 
-Chair: TBD
+Chair: Łukasz Wyrzykowski
 
 | Time  | Speaker | Title |
 |-------|------- |-------|
@@ -38,7 +38,7 @@ Chair: TBD
 | 12:30	| Lunch			|
 
 ### PM Session 3:			
-Chair: TBD
+Chair: Gemma Anderson
 
 | Time   | Speaker         | Title                                                              |
 |--------|-----------------|--------------------------------------------------------------------|

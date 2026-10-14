@@ -29,7 +29,7 @@ Chair: TBD
 
 ### AM Session 2:		
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
-Chair: TBD
+Chair: Daniel Harbeck
 
 | Time   | Duration | Hack session topics (Broder) | Discussion topics (Farrand Hall)	    |
 |--------| -------- |------------------------------|--------------------------------------|
@@ -39,14 +39,14 @@ Chair: TBD
 
 
 ### PM Session 3: 
-Chair: TBD
+Chair: Moira Andrews
 
-| Time   | Speaker              | Title |
-|--------|----------------------|-------|
-| 14:00	 | 	Lukasz Wyrzykowski  |  BHTOM: Coordinating a Global Network for Time-Domain Follow-up    |
-| 14:30	 | 	Antoine Le Calloch    | BOOM: a high-throughput Rust alert broker for ZTF, LSST and the next generation of surveys |
-| 15:00	 | 	Gemma Anderson         | TRACE-T: Automating rapid radio follow-up of transients |
-| 15:30  |                      | Break |
+| Time   | Speaker             | Title |
+|--------|---------------------|-------|
+| 14:00	 | 	Łukasz Wyrzykowski |  BHTOM: Coordinating a Global Network for Time-Domain Follow-up    |
+| 14:30	 | 	Antoine Le Calloch | BOOM: a high-throughput Rust alert broker for ZTF, LSST and the next generation of surveys |
+| 15:00	 | 	Gemma Anderson     | TRACE-T: Automating rapid radio follow-up of transients |
+| 15:30  |                     | Break |
 
 ### PM Session 4:			
 Chair: TBD

@@ -30,7 +30,7 @@ Chair: Rachel Street
 
 
 ### AM Session 2: 
-Chair: TBD
+Chair: Antoine Le Calloch
 
 | Time  | Speaker | Title |
 |-------|------- |-------|
@@ -39,7 +39,7 @@ Chair: TBD
 | 12:30	| Lunch			|
 
 ### PM Session 3:			
-Chair: TBD
+Chair: Jeff Mader
 
 | Time   | Speaker         | Title                                                              |
 |--------|-----------------|--------------------------------------------------------------------|
@@ -51,7 +51,7 @@ Chair: TBD
 
 ### PM Session 4:		
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
-Chair: TBD
+Chair: Andy Howell
 
 | Time  | Duration | Hack session topics (Broder)          | Discussion topics (Farrand Hall)	    |
 |-------| -------- |---------------------------------------|--------------------------------------|
