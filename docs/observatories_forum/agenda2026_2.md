@@ -17,7 +17,7 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 
 ## Day 2: Thursday, Oct 29, 2026
 ### AM Session 1: 
-Chair: TBD
+Chair: Cesar Briceño
 
 | Time   | Speaker        | Title                                                                    |
 |--------|----------------|--------------------------------------------------------------------------|
