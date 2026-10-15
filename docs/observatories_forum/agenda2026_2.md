@@ -49,7 +49,7 @@ Chair: Moira Andrews
 | 15:30  |                     | Break |
 
 ### PM Session 4:			
-Chair: TBD
+Chair: Cam Wipper
 
 | Time  | Speaker         | Title                                                         |
 |-------|-----------------|---------------------------------------------------------------|
