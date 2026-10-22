@@ -43,9 +43,8 @@ Chair: Gemma Anderson
 | Time   | Speaker         | Title                                                              |
 |--------|-----------------|--------------------------------------------------------------------|
 | 14:00	 |  Craig Pellegrino  | The ACROSS Project’s Generalized Observation Request Management System	 |				
-| 14:30	 | 	Felipe Olivares Estay | Mapping the Transient Sky: WFCAM NIR Science and Multi-Messenger Follow-Up at UKIRT     |
-| 15:00	 |  Malte Marquarding | Operations and software at ATNF   |			
-| 15:30	 | 30min           | Break                                                              |
+| 14:30	 | 	Malte Marquarding | Operations and software at ATNF   |		
+| 15:00	 | 30min           | Break                                                              |
 
 
 ### PM Session 4:		
