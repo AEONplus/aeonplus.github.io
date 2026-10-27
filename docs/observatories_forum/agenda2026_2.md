@@ -25,6 +25,7 @@ Chair: Cesar Briceño
 | 09:10	 | Miguel Gómez | GOATS: An end-to-end time-domain and multi-messenger astronomy platform  |
 | 09:40	 | Rachel Street | The TOM Toolkit v3 & AEONlib                   |
 | 10:10	 | Thomas Culino | SkyPortal: An Open-Source Data Platform for Time-Domain and Multi-Messenger Astrophysics    |
+| 10:40  |                  | Workshop photo by oak tree |
 | 11:00  | 30min          | Break                                                                    |
 
 ### AM Session 2:		
