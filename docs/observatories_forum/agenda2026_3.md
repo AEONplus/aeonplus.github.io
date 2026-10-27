@@ -22,10 +22,10 @@ Chair: Samuel Wyatt
 | Time   | Speaker        | Title                                                                           |
 |--------|----------------|---------------------------------------------------------------------------------|
 | 09:00	 | Rachel Street	 | Welcome and logistics                                                           |
-| 09:10	 | Bryan Miller | Approaching Full AEON: Updates on Major Software Efforts at Gemini Observatory  |
-| 09:40	 | Reed Fu | Skynet Global Observatory: Recent Advances and AEON+ Access       |
-| 10:10	 | Alison Costa |  NRAO's New Telescope Time Allocation Tools: Software Suite for Proposal Submission and Review   |
-| 11:00  | 30min          | Break                                                                           |
+| 09:10	 | Bryan Miller   | Approaching Full AEON: Updates on Major Software Efforts at Gemini Observatory  |
+| 09:40	 | Reed Fu        | Skynet Global Observatory: Recent Advances and AEON+ Access       |
+| 10:10	 | Alison Costa   |  NRAO's New Telescope Time Allocation Tools: Software Suite for Proposal Submission and Review   |
+| 10:50  | 40min          | Break                                                                           |
 
 
 ### AM Session 2: 

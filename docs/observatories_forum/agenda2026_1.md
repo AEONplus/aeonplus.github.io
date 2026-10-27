@@ -19,14 +19,14 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ### AM Session 1: 
 Chair: Rachel Street
 
-| Time   | Speaker        | Title                                                                                        |
-|--------|----------------|----------------------------------------------------------------------------------------------|
-| 08:00  |                | Registration open; meet and greet                                                            |
-| 09:00	 | Rachel Street	 | Welcome and introduction to AEON+.                                                           |
-| 09:10	 | Griffin Hosseinzadeh | Results from Year 1 of the Public AEON Spectroscopic Survey for Transient Astronomy (PASSTA) |
-| 09:40	 | Markus Hundertmark  | The Galactic Science Observing Priority Manager: Classification Probabilities for Rubin      |
+| Time   | Speaker                     | Title                                                                                        |
+|--------|-----------------------------|----------------------------------------------------------------------------------------------|
+| 08:00  |                             | Registration open; meet and greet                                                            |
+| 09:00	 | Rachel Street	              | Welcome and introduction to AEON+.                                                           |
+| 09:10	 | Griffin Hosseinzadeh        | Results from Year 1 of the Public AEON Spectroscopic Survey for Transient Astronomy (PASSTA) |
+| 09:40	 | Markus Hundertmark          | The Galactic Science Observing Priority Manager: Classification Probabilities for Rubin      |
 | 10:10	 | Petr Pravec, Miroslav Velen | Observations of near-Earth asteroids at the 1.54m Danish telescope on La Silla               |
-| 11:00  | 30min          | Break                                                                                        |
+| 10:50  | 40min                       | Break                                                                                        |
 
 
 ### AM Session 2: 
