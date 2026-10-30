@@ -38,4 +38,14 @@ Chair: Łukasz Wyrzykowski
 | 12:30	| Lunch			|
 
 ### Afternoon:			
-Dedicated to unconference session and discussion. 
+Breakout sessions will follow an unconference model and participants are encour$
+Chair: Gemma Anderson
+
+| Time   | Duration | Hack session topics (Broder) | Discussion topics (Farrand)
+|--------| -------- |------------------------------|---------------------------
+| 14:00  | 1hr      | E.g.                         | Secure app development |
+|        |          |                              |Open source in the age of LLMs|
+|        |          |                              | Data sharing and licenses|          
+| 15:00  |           | Coffee                        | |                        
+
+
