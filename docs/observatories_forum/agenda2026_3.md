@@ -37,24 +37,5 @@ Chair: Łukasz Wyrzykowski
 | 12:00	| Joe Bright	|  A Real-Time Control, Signal Processing, and Data Analysis System for the Allen Telescope Array   |
 | 12:30	| Lunch			|
 
-### PM Session 3:			
-Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
-Chair: TBD
-
-| Time  | Duration | Hack session topics (Broder)          | Discussion topics (Farrand Hall)	    |
-|-------| -------- |---------------------------------------|--------------------------------------|
-| 16:00	| 1hr 	    | E.g.                                 | E.g.  |
-| 		| 		    |   	                               | 	                                    |
-| 17:00 |           | End of day                           |                                      |
-
-
-### PM Session 4:		
-Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
-Chair: TBD
-
-| Time  | Duration | Hack session topics (Broder)          | Discussion topics (Farrand Hall)	    |
-|-------| -------- |---------------------------------------|--------------------------------------|
-| 16:00	| 1hr 	    | E.g.                                 | E.g.  |
-| 		| 		    |   	                               | 	                                    |
-| 17:00 |           | End of day                           |                                      |
-
+### Afternoon:			
+Dedicated to unconference session and discussion. 
