@@ -56,6 +56,6 @@ Chair: Cam Wipper
 |-------|-----------------|---------------------------------------------------------------|
 | 16:00	 |  Samuel Wyatt    | NASA Astrophysics Cross-Observatory Science Support  (ACROSS) |				
 | 16:30	 | 	Moira Andrews | TOM ACROSS and SNEx2                                          |	
-| 17:0	 |          | End of day                                                    |
+| 17:00	 |          | End of day                                                    |
 
 
