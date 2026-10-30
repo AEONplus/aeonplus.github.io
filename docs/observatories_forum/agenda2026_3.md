@@ -38,7 +38,8 @@ Chair: Łukasz Wyrzykowski
 | 12:30	| Lunch			|
 
 ### Afternoon:			
-Breakout sessions will follow an unconference model and participants are encour$
+Breakout sessions will follow an unconference model
+
 Chair: Gemma Anderson
 
 | Time   | Duration | Hack session topics (Broder) | Discussion topics (Farrand)
