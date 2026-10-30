@@ -19,13 +19,13 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ### AM Session 1: 
 Chair: Samuel Wyatt
 
-| Time   | Speaker        | Title                                                                           |
-|--------|----------------|---------------------------------------------------------------------------------|
-| 09:00	 | Rachel Street	 | Welcome and logistics                                                           |
-| 09:10	 | Bryan Miller   | Approaching Full AEON: Updates on Major Software Efforts at Gemini Observatory  |
-| 09:40	 | Reed Fu        | Skynet Global Observatory: Recent Advances and AEON+ Access       |
-| 10:10	 | Alison Costa   |  NRAO's New Telescope Time Allocation Tools: Software Suite for Proposal Submission and Review   |
-| 10:50  | 40min          | Break                                                                           |
+| Time    | Speaker          | Title                                                                           |
+|---------|------------------|---------------------------------------------------------------------------------|
+| 09:00	  | Bryan Miller     | Approaching Full AEON: Updates on Major Software Efforts at Gemini Observatory  |
+| 09:30	  | Reed Fu          | Skynet Global Observatory: Recent Advances and AEON+ Access       |
+| 10:00	  | Alison Costa     |  NRAO's New Telescope Time Allocation Tools: Software Suite for Proposal Submission and Review   |
+| 10:30	  | Craig Pellegrino | The ACROSS Project’s Generalized Observation Request Management System	 |	
+| 11:00   | 30min            | Break                                                                           |
 
 
 ### AM Session 2: 
@@ -38,13 +38,14 @@ Chair: Łukasz Wyrzykowski
 | 12:30	| Lunch			|
 
 ### PM Session 3:			
-Chair: Gemma Anderson
+Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
+Chair: TBD
 
-| Time   | Speaker         | Title                                                              |
-|--------|-----------------|--------------------------------------------------------------------|
-| 14:00	 |  Craig Pellegrino  | The ACROSS Project’s Generalized Observation Request Management System	 |				
-| 14:30	 | 	Malte Marquarding | Operations and software at ATNF   |		
-| 15:00	 | 30min           | Break                                                              |
+| Time  | Duration | Hack session topics (Broder)          | Discussion topics (Farrand Hall)	    |
+|-------| -------- |---------------------------------------|--------------------------------------|
+| 16:00	| 1hr 	    | E.g.                                 | E.g.  |
+| 		| 		    |   	                               | 	                                    |
+| 17:00 |           | End of day                           |                                      |
 
 
 ### PM Session 4:		
