@@ -19,14 +19,14 @@ All speakers should allow ~5min for questions at the end of their talk or demo. 
 ### AM Session 1: 
 Chair: Cesar Briceño
 
-| Time   | Speaker        | Title                                                                    |
-|--------|----------------|--------------------------------------------------------------------------|
-| 09:00	 | Rachel Street	 | Welcome and logistics                                                    |
-| 09:10	 | Miguel Gómez | GOATS: An end-to-end time-domain and multi-messenger astronomy platform  |
-| 09:40	 | Rachel Street | The TOM Toolkit v3 & AEONlib                   |
-| 10:10	 | Thomas Culino | SkyPortal: An Open-Source Data Platform for Time-Domain and Multi-Messenger Astrophysics    |
-| 10:40  |                  | Workshop photo by oak tree |
-| 11:00  | 30min          | Break                                                                    |
+| Time   | Speaker        | Title                                                                                                                                                                                               |
+|--------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:00	 | Rachel Street	 | Welcome and logistics                                                                                                                                                                               |
+| 09:10	 | Miguel Gómez | [GOATS: An end-to-end time-domain and multi-messenger astronomy platform](https://docs.google.com/presentation/d/175riGWCvHaQcpcN2GxKaru46AXhrsvehJcnHc6xzEAI/edit?usp=drive_link)                  |
+| 09:40	 | Rachel Street | [The TOM Toolkit v3 & AEONlib](https://docs.google.com/presentation/d/158ZE4KtwnBjv9RM2yUZAD1QadhFs5NLSb_ykYJtdiq8/edit?usp=drive_link)                                                             |
+| 10:10	 | Thomas Culino | [SkyPortal: An Open-Source Data Platform for Time-Domain and Multi-Messenger Astrophysics](https://docs.google.com/presentation/d/1YKDHSnmVmWC_amkoW5YFwUs1WgrSagdshifHvwEY1FE/edit?usp=drive_link) |
+| 10:40  |                  | Workshop photo by oak tree                                                                                                                                                                          |
+| 11:00  | 30min          | Break                                                                                                                                                                                               |
 
 ### AM Session 2:		
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
@@ -42,20 +42,20 @@ Chair: Daniel Harbeck
 ### PM Session 3: 
 Chair: Moira Andrews
 
-| Time   | Speaker             | Title |
-|--------|---------------------|-------|
-| 14:00	 | 	Łukasz Wyrzykowski |  BHTOM: Coordinating a Global Network for Time-Domain Follow-up    |
-| 14:30	 | 	Antoine Le Calloch | BOOM: a high-throughput Rust alert broker for ZTF, LSST and the next generation of surveys |
-| 15:00	 | 	Gemma Anderson     | TRACE-T: Automating rapid radio follow-up of transients |
-| 15:30  |                     | Break |
+| Time   | Speaker             | Title                                                                                                                                                                                                 |
+|--------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14:00	 | 	Łukasz Wyrzykowski | [BHTOM: Coordinating a Global Network for Time-Domain Follow-up](https://drive.google.com/file/d/1l35AVB8QI4YDhhJJZMp-tMytygbx99ap/view?usp=drive_link)                                               |
+| 14:30	 | 	Antoine Le Calloch | [BOOM: a high-throughput Rust alert broker for ZTF, LSST and the next generation of surveys](https://drive.google.com/file/d/1YEKiNnQ9YaaYOhmrXKKcKecfGynlMtiR/view?usp=drive_link)                   |
+| 15:00	 | 	Gemma Anderson     | [TRACE-T: Automating rapid radio follow-up of transients](https://docs.google.com/presentation/d/1PXsFadzk7HU6Opb7vxJ_RHQURz_lR1Og/edit?usp=drive_link&ouid=116755335466254621154&rtpof=true&sd=true) |
+| 15:30  |                     | Break                                                                                                                                                                                                 |
 
 ### PM Session 4:			
 Chair: Cam Wipper
 
-| Time  | Speaker         | Title                                                         |
-|-------|-----------------|---------------------------------------------------------------|
-| 16:00	 |  Samuel Wyatt    | NASA Astrophysics Cross-Observatory Science Support  (ACROSS) |				
-| 16:30	 | 	Moira Andrews | TOM ACROSS and SNEx2                                          |	
-| 17:00	 |          | End of day                                                    |
+| Time  | Speaker         | Title                                                                                                                                                  |
+|-------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 16:00	 |  Samuel Wyatt    | [NASA Astrophysics Cross-Observatory Science Support  (ACROSS)](https://drive.google.com/file/d/1O6FSnfqdojGZ14Ue3fscw5hbJt29BNH_/view?usp=drive_link) |				
+| 16:30	 | 	Moira Andrews | [TOM ACROSS and SNEx2](https://drive.google.com/file/d/1WsTthv0jVZqDPAxaum29Zt7I5s25DIfQ/view?usp=drive_link)                                          |	
+| 17:00	 |          | End of day                                                                                                                                             |
 
 

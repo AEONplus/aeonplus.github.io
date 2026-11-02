@@ -26,6 +26,6 @@ Topics covered included:
   - Towards generalized APIs for proposal, observation requests across wavelengths
 
 <figure class="image">
-  <img src="/assets/images/obsforum2025_photo.jpg">
-    <figcaption>Photo of in-person participants of the 2025 workshop</figcaption>
+  <img src="/assets/images/obsforum2026_photo.jpg">
+    <figcaption>Photo of in-person participants of the 2026 workshop</figcaption>
 </figure>
