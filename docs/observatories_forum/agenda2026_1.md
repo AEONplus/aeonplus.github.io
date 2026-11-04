@@ -53,6 +53,8 @@ Chair: Jeff Mader
 | 15:00	 | Cesar Briceño	  | [AEON at SOAR and Blanco: 4m followup facilities in the Rubin Era](https://drive.google.com/file/d/194ajNtZ_8ZxFRTlZx6xiEc3T1xbqvZDu/view?usp=drive_link)                                 |			
 | 15:30	 | 30min           | Break                                                                                                                                                                                     |
 
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ta6nKCuePSk?si=IgZymmPbt_iUJYPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PM Session 4:		
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
@@ -64,3 +66,5 @@ Chair: Andy Howell
 | 		| 		    |   	                               | 	                                    |
 | 17:00 |           | End of day                           |                                      |
 
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCHw9QajITY?si=NM0fEL70yBRkq_7q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
