@@ -28,6 +28,8 @@ Chair: Rachel Street
 | 10:10	 | Petr Pravec, Miroslav Velen | [Observations of near-Earth asteroids at the 1.54m Danish telescope on La Silla](https://docs.google.com/presentation/d/1m7Ua_MCg484T8E7zJlXYpxrZYuASXKWl/edit?usp=drive_link&ouid=116755335466254621154&rtpof=true&sd=true) |
 | 10:50  | 40min                      | Break                                                                                                                                                                                                                        |
 
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JhoDwfB2nFo?si=jlyHoC83fQejF_xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### AM Session 2: 
 Chair: Antoine Le Calloch
@@ -37,6 +39,9 @@ Chair: Antoine Le Calloch
 | 11:30	| Natalya Johnson	| [Diversity-Aware Bayesian Optimization for GW-EM Training Dataset Generation](https://drive.google.com/file/d/1bafy-YnsWMVEVSSc1LoE4ck7jBSZaxR0/view?usp=drive_link) |
 | 12:00	| Andy Howell	| [Data sharing and data licensing](https://drive.google.com/file/d/1jr2TrMfx-Us3zCMrZM8vN_JRFIMEYPjX/view?usp=drive_link)                                             |
 | 12:30	| Lunch			|
+
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s0VDvwlXLqI?si=Gy7LKhrqlIU44hwu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PM Session 3:			
 Chair: Jeff Mader
