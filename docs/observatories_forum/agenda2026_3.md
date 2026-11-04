@@ -27,6 +27,8 @@ Chair: Samuel Wyatt
 | 10:30	  | Craig Pellegrino | [The ACROSS Project’s Generalized Observation Request Management System](https://docs.google.com/presentation/d/16JgxEbtxdRrxWhykIzaFt3dcog6jL3HR/edit?usp=drive_link&ouid=116755335466254621154&rtpof=true&sd=true)	 |	
 | 11:00   | 30min            | Break                                                                                                                                                                                                                 |
 
+Session recording
+<iframe width="889" height="500" src="https://youtu.be/SdwjtzuuJw4" title="Observatories Forum 2026: Day3, Session 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### AM Session 2: 
 Chair: Łukasz Wyrzykowski
@@ -36,6 +38,9 @@ Chair: Łukasz Wyrzykowski
 | 11:30	| Gowri Govindaraj	| [A Real-Time uGMRT Pipeline for Radio Follow-Up of Gravitational-Wave Events](https://drive.google.com/file/d/1PS7qVhFGxzdaaeGfxXOXufEtnEiX-Nf6/view?usp=drive_link)                    |
 | 12:00	| Joe Bright	| [A Real-Time Control, Signal Processing, and Data Analysis System for the Allen Telescope Array](https://drive.google.com/file/d/1eMwCYNLt_dhx3YHyCC3d38_AnDqOFHDx/view?usp=drive_link) |
 | 12:30	| Lunch			|
+
+Session recording
+<iframe width="889" height="500" src="https://youtu.be/L7wA9HJ5qgs" title="Observatories Forum 2026: Day3, Session 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Afternoon:			
 Breakout sessions will follow an unconference model
@@ -49,4 +54,6 @@ Chair: Gemma Anderson
 |        |          |                              | Data sharing and licenses|          
 | 15:00  |           | Coffee                        | |                        
 
+Session recording
+<iframe width="889" height="500" src="https://youtu.be/U_NURuJZxK8" title="Observatories Forum 2026: Day 3, Session 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
