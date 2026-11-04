@@ -28,7 +28,7 @@ Chair: Samuel Wyatt
 | 11:00   | 30min            | Break                                                                                                                                                                                                                 |
 
 Session recording
-<iframe width="889" height="500" src="https://youtu.be/SdwjtzuuJw4" title="Observatories Forum 2026: Day3, Session 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SdwjtzuuJw4?si=j5OK2HHai5YAtiP9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### AM Session 2: 
 Chair: Łukasz Wyrzykowski
@@ -40,7 +40,7 @@ Chair: Łukasz Wyrzykowski
 | 12:30	| Lunch			|
 
 Session recording
-<iframe width="889" height="500" src="https://youtu.be/L7wA9HJ5qgs" title="Observatories Forum 2026: Day3, Session 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7wA9HJ5qgs?si=h7Yio0QTTzrcJbHL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Afternoon:			
 Breakout sessions will follow an unconference model
@@ -55,5 +55,4 @@ Chair: Gemma Anderson
 | 15:00  |           | Coffee                        | |                        
 
 Session recording
-<iframe width="889" height="500" src="https://youtu.be/U_NURuJZxK8" title="Observatories Forum 2026: Day 3, Session 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_NURuJZxK8?si=TThm_2ZZOCUYO-sZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
