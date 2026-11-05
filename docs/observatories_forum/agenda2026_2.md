@@ -28,6 +28,9 @@ Chair: Cesar Briceño
 | 10:40  |                  | Workshop photo by oak tree                                                                                                                                                                          |
 | 11:00  | 30min          | Break                                                                                                                                                                                               |
 
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8pUiG9q1On8?si=uuFQBqfFTOu8UNHF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### AM Session 2:		
 Breakout sessions will follow an unconference model and participants are encouraged to propose their own topics.
 Chair: Daniel Harbeck
@@ -38,6 +41,8 @@ Chair: Daniel Harbeck
 | 		     | 		    | 	                            | 	                                    |
 | 12:30  |           | Lunch                        |                                      |
 
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dLgcQqimJM?si=CrBGMAB0OoGCC2Rp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PM Session 3: 
 Chair: Moira Andrews
@@ -49,6 +54,9 @@ Chair: Moira Andrews
 | 15:00	 | 	Gemma Anderson     | [TRACE-T: Automating rapid radio follow-up of transients](https://docs.google.com/presentation/d/1PXsFadzk7HU6Opb7vxJ_RHQURz_lR1Og/edit?usp=drive_link&ouid=116755335466254621154&rtpof=true&sd=true) |
 | 15:30  |                     | Break                                                                                                                                                                                                 |
 
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWU75X8GqH0?si=wlmtq5lQjLdu02Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### PM Session 4:			
 Chair: Cam Wipper
 
@@ -59,3 +67,5 @@ Chair: Cam Wipper
 | 17:00	 |          | End of day                                                                                                                                             |
 
 
+Session recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5agWifErAp8?si=p1C1SR__ot5vnI1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
